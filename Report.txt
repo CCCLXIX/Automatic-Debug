@@ -1,0 +1,120 @@
+*** Report *** 
+
+Number of statements to be processed: 16
+
+Libraries: 
+    java.util.*
+    java.io.*
+
+Object Characteristics: 
+    Private/Public: public
+    Class: Dummy
+    Interface: null
+    Abstract: null
+    Extends: null
+    Implements: null
+
+
+List: 
+    public
+    static
+    void
+    main
+    (
+    String[]
+    args
+    )
+    {
+    System.out.println"I'm
+    (
+    a
+    Dummy"
+    )
+    ;
+    }
+*** Report *** 
+
+Number of statements to be processed: 25
+
+Libraries: 
+    java.util.*
+    java.io.*
+
+Object Characteristics: 
+    Private/Public: public
+    Class: Dummy
+    Interface: null
+    Abstract: null
+    Extends: null
+    Implements: null
+
+
+List: 
+    //I'm
+    a
+    comment
+    in
+    a
+    Dummy
+    //Come
+    on
+    bitches
+    public
+    static
+    void
+    main
+    (
+    String[]
+    args
+    )
+    {
+    System.out.println"I'm
+    (
+    a
+    Dummy"
+    )
+    ;
+    }
+*** Report *** 
+
+Number of statements to be processed: 25
+
+Libraries: 
+    java.util.*
+    java.io.*
+
+Object Characteristics: 
+    Private/Public: public
+    Class: Dummy
+    Interface: null
+    Abstract: null
+    Extends: null
+    Implements: null
+
+
+List: 
+    //I'm
+    a
+    comment
+    in
+    a
+    Dummy
+    //Come
+    on
+    bitches
+    public
+    static
+    void
+    main
+    (
+    String[]
+    args
+    )
+    {
+    System.out.println"I'm
+    (
+    a
+    Dummy"
+    )
+    ;
+    }
